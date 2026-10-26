@@ -2,8 +2,8 @@
 ## 1. Link Repository and Live Deployment
 
 - **GitHub Repository:** https://github.com/vothmad/BTNG-Backend-TsabitAqdamana
-- **Live API:** wwwwww
-- **API Documentation:** wwwww/docs/api
+- **Live API:** https://app-8b377266-515d-426f-b806-48aaccadfbbe.cleverapps.io/
+- **API Documentation:** https://app-8b377266-515d-426f-b806-48aaccadfbbe.cleverapps.io/docs/api
 
 ## 2. Endpoint CRUD List
 
